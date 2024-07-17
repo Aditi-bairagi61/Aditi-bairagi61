@@ -1,14 +1,16 @@
 ![logo](https://github.com/Aditi-bairagi61/Aditi-bairagi61/blob/main/baaaan.jpg)
 <h1 align="center">Hi 👋, I'm Aditi Bairagi</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Hey , I'm Aditi About Me 🚀 Open-Source Enthusiast | 🎓 Passionate Software Engineer | 🛠️ Crafting code with creativity and collaboration</h3>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-bairagi61&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-bairagi61" /> </p>
 
-- 🌱 I’m currently learning **React, API's, DevOps**
-
+- 🌱 I’m currently learning **DSA and AI tools**
+- 👨‍💻 All of my projects are available at https://github.com/Aditi-bairagi61/Portfolio
+- 💬 Ask me about Web Development and data science
 - 📫 How to reach me **aditibairagi1456@gmail.com**
+- 📄 Know about my experiences https://www.linkedin.com/in/aditi-bairagi-9a21011b6/
 
-- 📄 Know about my experiences [Web Developer Intern At Origin software solution work as a frontend developer.Solves the real life problems]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-bairagi-9a21011b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-bairagi-9a21011b6" height="30" width="40" /></a>
