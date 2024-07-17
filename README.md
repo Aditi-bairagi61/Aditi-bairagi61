@@ -7,7 +7,7 @@
 ● 🌱 I’m currently learning DSA and AI tools <br> <br>
 ● 👨‍💻 All of my projects are available at https://github.com/Aditi-bairagi61/Portfolio  <br><br>
 ● 💬 Ask me about Web Development and data science  <br><br>
-● 📫 How to reach me **aditibairagi1456@gmail.com**  <br><br>
+● 📫 How to reach me aditibairagi1456@gmail.com  <br><br>
 ● 📄 Know about my experiences https://www.linkedin.com/in/aditi-bairagi-9a21011b6/  <br><br>
 
 
