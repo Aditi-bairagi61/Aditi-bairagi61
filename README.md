@@ -4,11 +4,11 @@
 <!--<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-bairagi61&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-bairagi61" /> </p>
 -->
-- 🌱 I’m currently learning **DSA and AI tools**
-- 👨‍💻 All of my projects are available at https://github.com/Aditi-bairagi61/Portfolio
-- 💬 Ask me about Web Development and data science
-- 📫 How to reach me **aditibairagi1456@gmail.com**
-- 📄 Know about my experiences https://www.linkedin.com/in/aditi-bairagi-9a21011b6/
+● 🌱 I’m currently learning DSA and AI tools <br>
+● 👨‍💻 All of my projects are available at https://github.com/Aditi-bairagi61/Portfolio  <br>
+● 💬 Ask me about Web Development and data science  <br>
+● 📫 How to reach me **aditibairagi1456@gmail.com**  <br>
+● 📄 Know about my experiences https://www.linkedin.com/in/aditi-bairagi-9a21011b6/  <br>
 
 
 <h3 align="left">Connect with me:</h3>
